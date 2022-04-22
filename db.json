@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Something Else 1",
+      "caption": "Some other Caption 1"
+    },
+    {
+      "id": 2,
+      "title": "Something Else 2",
+      "caption": "Some other Caption 2"
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "caption": "Caption 3"
+    },
+    {
+      "id": 4,
+      "title": "Title 4",
+      "caption": "Caption 4"
+    }
+  ]
+}
